@@ -1,2 +1,2 @@
 # javascript_masterclass
-Javascript Masterclass - Rodrigo Branas - código dos exemplos utilizados
+Curso masterclass feito pelo Rodrigo Branas.
